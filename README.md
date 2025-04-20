@@ -34,7 +34,7 @@ MIT, because you deserve to copy this chaos freely.
 
 ## **Credits**
 
-- **Miscalcultor** is proudly built by Kirill (https://github.com/kirillomorph
+- **Miscalcultor** is proudly built by Kirill (https://github.com/kirillomorph).
 - Inspired by poor design choices and bad coding practices.
 
 ---
@@ -48,4 +48,4 @@ For any reason, feel free to contact me at: kirillomorph@gmail.com
 ## **Acknowledgments**
 
 - Thanks to Java for being slow enough to make this project possible.
-- Special thanks to StackOverflow for all the help (even though it didn't work most of time.
+- Special thanks to StackOverflow for all the help (even though it didn't work most of time).
