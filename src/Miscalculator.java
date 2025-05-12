@@ -34,7 +34,7 @@ public class Miscalculator {
         }
     
         System.out.println(result);
-        
+    
         scan.close();
     }
     
