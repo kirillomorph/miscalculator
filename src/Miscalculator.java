@@ -37,7 +37,7 @@ public class Miscalculator {
     
         scan.close();
     }
-
+    
     public static double sum (double a, double b) {
         return a + b;
     }
