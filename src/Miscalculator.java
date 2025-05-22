@@ -57,7 +57,7 @@ public class Miscalculator {
         }
         return a / b; //without else, `cause we MUST return something in any case & doesn`t matter that we exit the program upper, i think so
     }
-
+    
     public static double ste (double a, double b) {
         return Math.pow(a, b);
     }
