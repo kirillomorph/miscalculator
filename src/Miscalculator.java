@@ -41,7 +41,7 @@ public class Miscalculator {
     public static double sum (double a, double b) {
         return a + b;
     }
-
+    
     public static double min (double a, double b) {
         return a - b;
     }
