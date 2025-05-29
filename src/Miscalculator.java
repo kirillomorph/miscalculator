@@ -10,7 +10,7 @@ public class Miscalculator {
         System.out.print("Type symbol: ");
         String symbol = scan.nextLine();
         symbol = scan.nextLine(); //much questions to this line
-
+        
         System.out.print("Type second number: ");
         double secondInput = scan.nextDouble();
 
