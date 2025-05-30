@@ -13,7 +13,7 @@ public class Miscalculator {
         
         System.out.print("Type second number: ");
         double secondInput = scan.nextDouble();
-
+        
         System.out.print("Result: ");
         double result;
 
