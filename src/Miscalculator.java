@@ -16,7 +16,7 @@ public class Miscalculator {
         
         System.out.print("Result: ");
         double result;
-
+        
         if (symbol.equals("+")) {
             result = sum(firstInput, secondInput);
         } else if (symbol.equals("-")) {
