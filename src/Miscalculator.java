@@ -6,7 +6,7 @@ public class Miscalculator {
 
         System.out.print("Type first number: ");
         double firstInput = scan.nextDouble(); //do pizdy tvoi dably, kogda u tebya nextInt ili nextLine, geniy
-
+        
         System.out.print("Type symbol: ");
         String symbol = scan.nextLine();
         symbol = scan.nextLine(); //much questions to this line
