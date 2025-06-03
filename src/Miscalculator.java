@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Miscalculator {
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
-
+        
         System.out.print("Type first number: ");
         double firstInput = scan.nextDouble(); //do pizdy tvoi dably, kogda u tebya nextInt ili nextLine, geniy
         
