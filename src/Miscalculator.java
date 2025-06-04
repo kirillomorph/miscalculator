@@ -32,7 +32,7 @@ public class Miscalculator {
             System.out.println("man... only +, -, *, / and ^");
             System.exit(0);
         }
-    
+        
         System.out.println(result);
     
         scan.close();
