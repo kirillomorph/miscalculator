@@ -49,7 +49,7 @@ public class Miscalculator {
     public static double umn (double a, double b) {
         return a * b;
     }
-    
+
     public static double del (double a, double b) {
         if (b == 0) {
             System.out.println("man... why are you so idiot?");
